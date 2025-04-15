@@ -2,7 +2,7 @@
 
 ### Desenvolvido por: Guilherme Depiné Neto  
 ### Disciplina: Programação III 
-### UNOESC - SMO - 5 FASE
+### UNOESC - SMO - 5ª FASE
 ### Curso: Ciencias da Computação
 
 ---
