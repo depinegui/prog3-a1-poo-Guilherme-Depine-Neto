@@ -1,7 +1,7 @@
 # Projeto A1 - Sistema de Cadastro e Autenticação de Usuários
 
 ### Desenvolvido por: Guilherme Depiné Neto  
-### Disciplina: Programação III – UNOESC
+### Disciplina: Programação III – UNOESC - SMO
 ### Curso: Ciencias da Computação
 
 ---
