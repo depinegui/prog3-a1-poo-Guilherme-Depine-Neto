@@ -2,6 +2,7 @@
 
 ### Desenvolvido por: Guilherme Depiné Neto  
 ### Disciplina: Programação III – UNOESC
+### Curso: Ciencias da Computação
 
 ---
 
